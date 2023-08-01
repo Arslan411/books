@@ -1,0 +1,17 @@
+{
+    "login": {
+        "getStarted": "Let's get started!",
+        "enterMobileNoLabel":"Please enter your mobile number",
+        "nextBtnTxt":"Next",
+        "termTxtInitial":"By proceeding you agree to our ",
+        "termAndConditions":"Terms & Conditions",
+        "and":"and",
+        "privacyPolicies":"Privacy Policies",
+        "notFound":"Not Found!",
+        "register":"Register",
+        "retry":"Retry!",
+        "email":"Email in italian",
+        "alertTxt":"{{phoneNumber}} is not registered with our platform. Proceed with register or Try again with valid credientials"
+    }
+}
+  

@@ -1,0 +1,155 @@
+{
+    "login": {
+        "email":"Email",
+        "password":"Password", 
+        "forgot": "Forgotten password",
+        "login": "Log in",
+        "look": "Have a look",
+        "register": "Sign up",
+        "notRegistered": "Don't have an account?"
+    },
+    "register": {
+        "email":"Email",
+        "password":"Set a password", 
+        "next":"Next",
+        "name": "Name",
+        "surName": "Surname",
+        "repeat":"Repeat password",
+        "insta": "IG (optional)"
+    },
+    "emailSelection": {
+        "email":"Enter your email",
+        "next":"Next"
+    },
+    "resetPass": {
+        "code":"Code",
+        "password":"New password",
+        "repeatPass":"Repeat new password",
+        "confirm":"Confirm",
+        "headerTxt":"We have sent a code to your email,\nuse it here to reset your password"
+    },
+    "imageSelection":{
+        "pick":"pick",
+        "headerTxt":"set your profile photo (optional)",
+        "next":"Next"
+    },
+    "institute": {
+        "heading":"What type of institute do you attend?",
+        "highSchool":"High school",
+        "university":"University",
+        "region":"Select region",
+        "city": "Select city",
+        "school":"Select school",
+        "selectRegion": "Select region",
+        "selectUniversity": "Select university"
+    },
+    "verifyEmail":{
+        "email":"Verify email",
+        "next": "Next",
+        "description": "We have sent a code to your email,\n use it here to verify it"
+    },
+    "conditon":{
+        "title":"Term and Conditios",
+        "des":"Read and scroll to the end to accept",
+        "privacy":"Privacy Policy PDF link",
+        "eula":"Eula PDF link",
+        "conditon":"I accept the Terms and Conditions",
+        "eulaCondition":"I accept the EULA",
+        "policy":"I accept the Privacy Policy"
+
+    },
+    "books":{
+        "title":"Sell a book",
+        "contact":"Contact",
+        "back":"Back",
+        "report": "Report",
+        "reason": "Reason",
+        "reportAd":"Report Add",
+        "sold": "Sold",
+        "edit":"Edit"
+    },
+    "bookSell":{
+        "isbn":"Enter the book's ISBN",
+        "example":"example",
+        "brandNew":"It’s brand new",
+        "excellent":"Excellent conditions",
+        "good":"Good conditions",
+        "fair":"Fair conditions",
+        "bad":"Bad conditions",
+        "noExercise":"No exercises",
+        "blankExercises":"Blank exercises",
+        "fewExercises":"A few exercises done",
+        "halfExercises":"Half exercises done",
+        "exercisesAlmost":"Exercises almost done",
+        "allExercises":"All exercises done",
+        "conditionTitle":"What condition is the book in?",
+        "exerciseTitle":"How is the status of the exercises?",
+        "next": "Next",
+        "uploadPhotos":"Upload 2 photos of the book",
+        "priceTitle":"Set a price",
+        "post":"Post",
+        "price":"Price",
+        "conditionOfTheBook": "Condition of the book",
+        "exercisesConditions":"Exercises conditions",
+        "remove":"Remove",
+        "save":"Save"
+
+    },
+    "profile":{
+     "profile":"Edit profile",
+     "name":"Name",
+     "surName":"Surname",
+     "insta":"IG (optional)",
+     "program":"Degree program",
+     "contact":"Contact",
+     "save":"Save",
+     "year":"Year"
+
+    },
+    "settings":{
+        "research":"Research settings",
+        "language":"Language",
+        "change":"Change email/password",
+        "contact":"Contact us",
+        "condition":"Terms and conditions",
+        "privacy":"Privacy policy",
+        "eula":"EULA",
+        "deleteAccount":"Delete Account",
+        "logOut":"Log out",
+        "researchOption":"Only show ads from\nstudents at my school",
+        "researchOption1":"It also shows\nannouncements from\nstudents from different\ninstitutions",
+        "italian":"Italian",
+        "english":"English",
+        "changeEmail":"Change email/password",
+        "loginAgain":"Log in again before\nproceeding",
+        "login":"Log in",
+        "next":"Next",
+        "email":"Email",
+        "password":"Password",
+        "sentCredentialsTitle":"We have sent a code to\n your email, use it here to\n change your credentials",
+        "newEmail":"New email",
+        "newPassword":"New password",
+        "repeatPassword":"Repeat new password",
+        "code":"Code",
+        "saveChangesTxt":"We have sent a code to your email,\n use it here to save your changes",
+        "deleteAccountTxt":"We have sent a code to your email,\n use it here to delete your account",
+        "confirm":"Confirm",
+        "verificationCode": "Verification code",
+        "credentialChanged":"Credentials successfully \n changed",
+        "accountDeleted":"Account deleted \n successfully",
+        "end":"End",
+        "forInformation":"For information",
+        "forAssistence":"For Assistence",
+        "copy":"Copy",
+        "deleteAccountPermanently":"Do you want to delete\n your Bookstreet account\n permanently?",
+        "re-enableAccount":"You will have 1 month to\n contact us and re-enable\n your account",
+        "wantToDelete": "Are you sure you want to\n delete your Bookstreet\n account permanently?",
+        "downloadPdf":"Download PDF",
+        "copyLink":"Copy link"
+    },
+    "lookAround":{
+        "emptyTxt":"NO BOOK AVAILABLE"
+    }
+
+}
+  

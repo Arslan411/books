@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_setting.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_setting.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_profilefocused.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_profilefocused.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_home.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_home.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_search.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_search.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_book2.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_book2.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_profile2.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_profile2.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_unilogo.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_unilogo.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_arrow.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_arrow.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_book.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_book.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_backarrow.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_backarrow.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_profile1.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_profile1.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_book1.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_book1.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_applogolight.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_applogolight.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_bgprofile.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_bgprofile.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_flag.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_flag.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_chat.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_chat.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_italy.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_italy.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_blockuser.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_blockuser.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_check.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_check.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_bgimg.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_bgimg.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_dummyprofile.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_dummyprofile.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_profile.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_profile.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_uk.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_uk.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_logowhite.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_logowhite.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.bookstreets.app-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_book4.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_book4.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_backarrowwhite.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_backarrowwhite.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_gallery.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_gallery.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_profile3.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_profile3.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_chatfocused.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_chatfocused.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_homefocused.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_homefocused.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_bgprofile1.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_bgprofile1.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_book3.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_book3.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_cross.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_cross.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_applogoblue.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_applogoblue.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_icons_bookfocused.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_icons_bookfocused.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.bookstreets.app-res-25:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.bookstreets.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bookstreets.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

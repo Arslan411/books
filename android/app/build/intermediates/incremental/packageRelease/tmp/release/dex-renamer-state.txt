@@ -1,0 +1,4 @@
+#Mon Jul 31 13:48:21 PKT 2023
+base.0=/Users/macbook/Documents/BookStreets/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
